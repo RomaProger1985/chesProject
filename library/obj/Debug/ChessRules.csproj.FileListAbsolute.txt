@@ -1,0 +1,12 @@
+C:\Users\Рома\Desktop\ChessProekt\Library\ChessRules\ChessRules\ChessRules\bin\Debug\ChessRules.dll
+C:\Users\Рома\Desktop\ChessProekt\Library\ChessRules\ChessRules\ChessRules\bin\Debug\ChessRules.pdb
+C:\Users\Рома\Desktop\ChessProekt\Library\ChessRules\ChessRules\ChessRules\obj\Debug\ChessRules.csprojAssemblyReference.cache
+C:\Users\Рома\Desktop\ChessProekt\Library\ChessRules\ChessRules\ChessRules\obj\Debug\ChessRules.csproj.CoreCompileInputs.cache
+C:\Users\Рома\Desktop\ChessProekt\Library\ChessRules\ChessRules\ChessRules\obj\Debug\ChessRules.dll
+C:\Users\Рома\Desktop\ChessProekt\Library\ChessRules\ChessRules\ChessRules\obj\Debug\ChessRules.pdb
+C:\Users\Рома\Desktop\ChessProekt\Library\ChessRules\bin\Debug\ChessRules.dll
+C:\Users\Рома\Desktop\ChessProekt\Library\ChessRules\bin\Debug\ChessRules.pdb
+C:\Users\Рома\Desktop\ChessProekt\Library\ChessRules\obj\Debug\ChessRules.csproj.CoreCompileInputs.cache
+C:\Users\Рома\Desktop\ChessProekt\Library\ChessRules\obj\Debug\ChessRules.dll
+C:\Users\Рома\Desktop\ChessProekt\Library\ChessRules\obj\Debug\ChessRules.pdb
+C:\Users\Рома\Desktop\ChessProekt\Library\ChessRules\obj\Debug\ChessRules.csprojAssemblyReference.cache
